@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9oxa7x4cw74kg820?svg=true)](https://ci.appveyor.com/project/juliaivi/ahj-3-3)
 
 # Домашнее задание к занятию "3.Обработка событий"
 ### Галерея изображений с проверкой URL (задача со звёздочкой)
